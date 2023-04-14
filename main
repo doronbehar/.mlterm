@@ -1,0 +1,7 @@
+bg_color = #000000000000
+scrollbar_mode = none
+cursor_fg_color = #c5c5c8c8c6c6
+cursor_bg_color = #c5c5c8c8c6c6
+type_engine = cairo
+logsize = unlimited
+tabsize = 4
