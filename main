@@ -6,3 +6,4 @@ fg_color=#ffffff
 bg_color=#000000
 cursor_bg_color=#bbbbbb
 cursor_fg_color=#ffffff
+mod_meta_mode = esc
