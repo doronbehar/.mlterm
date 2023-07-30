@@ -7,7 +7,5 @@ bg_color=#000000
 cursor_bg_color=#bbbbbb
 cursor_fg_color=#ffffff
 mod_meta_mode = esc
-# Both of these make it crash, super hard to debug it, see:
-# https://github.com/arakiken/mlterm/issues/76
-#col_size_of_width_a = 2
-#use_multi_column_char = false
+box_drawing_font = unicode
+only_use_unicode_font = true
